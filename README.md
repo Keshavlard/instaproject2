@@ -1,3 +1,3 @@
-# instaproject2
+# smallproject2
 
 animated border login page
